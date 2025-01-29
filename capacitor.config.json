@@ -1,0 +1,6 @@
+{
+    "appId": "com.example.anonymousthoughts",
+    "appName": "Anonymous Thoughts",
+    "webDir": "dist",
+    "bundledWebRuntime": false
+  }
